@@ -1,16 +1,11 @@
-# todo_bloc
 
-A new Flutter project.
+![1](https://github.com/pathack123/pls_todo/assets/26498141/03408130-f180-4ad2-bb1e-78ac9445c66c)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![2](https://github.com/pathack123/pls_todo/assets/26498141/60a994d6-3c80-4ccb-95b2-74d503b7650d)
 
-A few resources to get you started if this is your first Flutter project:
+![3](https://github.com/pathack123/pls_todo/assets/26498141/c44243f4-9d3e-4cee-ae8a-4a024fbb2bc3)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![4](https://github.com/pathack123/pls_todo/assets/26498141/fda5b0ba-4c77-4ec5-bbd2-6b70d8ae0acd)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![5](https://github.com/pathack123/pls_todo/assets/26498141/0ff85dd6-d289-4ab3-8409-6257449d8efd)
