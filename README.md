@@ -1,11 +1,10 @@
+![1](https://github.com/pathack123/pls_todo/assets/26498141/c5427827-391c-4db9-9cf3-a62b609bc611)
 
-![1](https://github.com/pathack123/pls_todo/assets/26498141/03408130-f180-4ad2-bb1e-78ac9445c66c)
+![2](https://github.com/pathack123/pls_todo/assets/26498141/858da70e-ee26-459a-808d-210d16145923)
 
 
-![2](https://github.com/pathack123/pls_todo/assets/26498141/60a994d6-3c80-4ccb-95b2-74d503b7650d)
+![3](https://github.com/pathack123/pls_todo/assets/26498141/208b6bcc-9d88-4047-8c5e-6b6787ad840f)
 
-![3](https://github.com/pathack123/pls_todo/assets/26498141/c44243f4-9d3e-4cee-ae8a-4a024fbb2bc3)
+![4](https://github.com/pathack123/pls_todo/assets/26498141/3aefeb6e-7bfb-43da-a1aa-617a4116e836)
 
-![4](https://github.com/pathack123/pls_todo/assets/26498141/fda5b0ba-4c77-4ec5-bbd2-6b70d8ae0acd)
-
-![5](https://github.com/pathack123/pls_todo/assets/26498141/0ff85dd6-d289-4ab3-8409-6257449d8efd)
+![5](https://github.com/pathack123/pls_todo/assets/26498141/5c21f368-cdfb-46f6-95e8-bb4da8793f09)
